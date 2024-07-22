@@ -25,17 +25,17 @@ const Slider = () => {
         }}
         autoplay={{
           delay: 4000,
-          disableOnInteraction: false, 
+          disableOnInteraction: false,
         }}
         navigation={true}
         modules={[Pagination, Navigation ,Autoplay]}
         className="mySwiper"
       >
-        <SwiperSlide style={{height:"75vh"}}><img src={slide1} className='h-screen w-screen' alt="Slider Swiper"  /></SwiperSlide>
-        <SwiperSlide style={{height:"75vh"}}><img src={slide2} className='h-screen w-screen' alt="Slider Swiper"  /></SwiperSlide>
-        <SwiperSlide style={{height:"75vh"}}><img src={slide3} className='h-screen w-screen' alt="Slider Swiper"  /></SwiperSlide>
-        <SwiperSlide style={{height:"75vh"}}><img src={slide4} className='h-screen w-screen' alt="Slider Swiper"  /></SwiperSlide>
-        <SwiperSlide style={{height:"75vh"}}><img src={slide1} className='h-screen w-screen' alt="Slider Swiper"  /></SwiperSlide>
+        <SwiperSlide style={{height:"75vh"}}><img src={slide1} className='h-screen w-screen' alt=""  /></SwiperSlide>
+        <SwiperSlide style={{height:"75vh"}}><img src={slide2} className='h-screen w-screen' alt=""  /></SwiperSlide>
+        <SwiperSlide style={{height:"75vh"}}><img src={slide3} className='h-screen w-screen' alt=""  /></SwiperSlide>
+        <SwiperSlide style={{height:"75vh"}}><img src={slide4} className='h-screen w-screen' alt=""  /></SwiperSlide>
+        <SwiperSlide style={{height:"75vh"}}><img src={slide1} className='h-screen w-screen' alt=""  /></SwiperSlide>
      
       </Swiper>
   
