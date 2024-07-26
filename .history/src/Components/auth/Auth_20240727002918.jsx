@@ -10,7 +10,7 @@ const Auth = () => {
         backgroundRepeat: "no-repeat",
       }}
     >
-       <button className="fixed z-40 top-5 left-5 bg-gray-800 text-white rounded-md p-3">الصفحة الرئيسيه</button>
+       <button></button>
       <Outlet />
     </div>
   );

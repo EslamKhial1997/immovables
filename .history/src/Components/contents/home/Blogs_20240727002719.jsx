@@ -232,571 +232,6 @@ const Blogs = () => {
                 <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
                   <a href="#/18" className="block">
                     <img
-                       src={project2}
-                      alt="blog"
-                      data-v-2d36321d=""
-                      className="w-full align-middle aspect-[5/3] object-cover"
-                    />
-                  </a>
-                  <div className="flex px-2 pt-3 text-primary-500 space-x-2 space-x-reverse">
-                    <svg
-                      className="w-6 inline-block"
-                      id="vuesax_linear_calendar"
-                      data-name="vuesax/linear/calendar"
-                      xmlns="http://www.w3.org/2000/svg"
-                      viewBox="0 0 17.976 17.976"
-                    >
-                      <g id="calendar">
-                        <path
-                          id="Vector"
-                          d="M-.188,2.62A.562.562,0,0,1-.75,2.059V-.188A.562.562,0,0,1-.188-.75a.562.562,0,0,1,.562.562V2.059A.562.562,0,0,1-.188,2.62Z"
-                          transform="translate(6.18 1.686)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-2"
-                          data-name="Vector"
-                          d="M-.188,2.62A.562.562,0,0,1-.75,2.059V-.188A.562.562,0,0,1-.188-.75a.562.562,0,0,1,.562.562V2.059A.562.562,0,0,1-.188,2.62Z"
-                          transform="translate(12.172 1.686)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-3"
-                          data-name="Vector"
-                          d="M12.545.373H-.188A.562.562,0,0,1-.75-.188.562.562,0,0,1-.188-.75H12.545a.562.562,0,0,1,.562.562A.562.562,0,0,1,12.545.373Z"
-                          transform="translate(2.81 6.997)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-4"
-                          data-name="Vector"
-                          d="M3.557-.75H9.549A4.259,4.259,0,0,1,12.816.459a4.4,4.4,0,0,1,1.04,3.1V9.923a4.4,4.4,0,0,1-1.04,3.1A4.259,4.259,0,0,1,9.549,14.23H3.557A4.259,4.259,0,0,1,.29,13.021a4.4,4.4,0,0,1-1.04-3.1V3.557A4.4,4.4,0,0,1,.29.459,4.259,4.259,0,0,1,3.557-.75ZM9.549,13.106a3.2,3.2,0,0,0,2.444-.85,3.327,3.327,0,0,0,.739-2.333V3.557a3.327,3.327,0,0,0-.739-2.333A3.2,3.2,0,0,0,9.549.373H3.557a3.2,3.2,0,0,0-2.444.85A3.327,3.327,0,0,0,.373,3.557V9.923a3.327,3.327,0,0,0,.739,2.333,3.2,3.2,0,0,0,2.444.85Z"
-                          transform="translate(2.435 2.81)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-5"
-                          data-name="Vector"
-                          d="M0,0H17.976V17.976H0Z"
-                          fill="none"
-                          opacity="0"
-                        ></path>
-                        <path
-                          id="Vector-6"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(11.512 10.012)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-7"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(11.512 12.259)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-8"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(8.741 10.012)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-9"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(8.741 12.259)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-10"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(5.969 10.012)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-11"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(5.969 12.259)"
-                          fill="currentColor"
-                        ></path>
-                      </g>
-                    </svg>
-                    <span>أبريل 17</span>
-                  </div>
-                  <h2 className="h-100 overflow-hidden mx-0 mt-0 mb-4 py-2 px-3 text-lg text-left rtl:text-right leading-8 text-black dark:text-white font-ge-dinar-medium">
-                    <a href="#/18" className="block">
-                      الموافقة ريزدنس الراعي الماسي لمعرض مسكن العقاري 2023 في
-                      الرياض
-                    </a>
-                  </h2>
-                </div>
-              </li>
-            </SwiperSlide>
-            <SwiperSlide>
-              {" "}
-              <li
-                className="carousel__slide carousel_slide--clone"
-                aria-hidden="true"
-              >
-                <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
-                  <a href="#/18" className="block">
-                    <img
-                       src={project3}
-                      alt="blog"
-                      data-v-2d36321d=""
-                      className="w-full align-middle aspect-[5/3] object-cover"
-                    />
-                  </a>
-                  <div className="flex px-2 pt-3 text-primary-500 space-x-2 space-x-reverse">
-                    <svg
-                      className="w-6 inline-block"
-                      id="vuesax_linear_calendar"
-                      data-name="vuesax/linear/calendar"
-                      xmlns="http://www.w3.org/2000/svg"
-                      viewBox="0 0 17.976 17.976"
-                    >
-                      <g id="calendar">
-                        <path
-                          id="Vector"
-                          d="M-.188,2.62A.562.562,0,0,1-.75,2.059V-.188A.562.562,0,0,1-.188-.75a.562.562,0,0,1,.562.562V2.059A.562.562,0,0,1-.188,2.62Z"
-                          transform="translate(6.18 1.686)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-2"
-                          data-name="Vector"
-                          d="M-.188,2.62A.562.562,0,0,1-.75,2.059V-.188A.562.562,0,0,1-.188-.75a.562.562,0,0,1,.562.562V2.059A.562.562,0,0,1-.188,2.62Z"
-                          transform="translate(12.172 1.686)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-3"
-                          data-name="Vector"
-                          d="M12.545.373H-.188A.562.562,0,0,1-.75-.188.562.562,0,0,1-.188-.75H12.545a.562.562,0,0,1,.562.562A.562.562,0,0,1,12.545.373Z"
-                          transform="translate(2.81 6.997)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-4"
-                          data-name="Vector"
-                          d="M3.557-.75H9.549A4.259,4.259,0,0,1,12.816.459a4.4,4.4,0,0,1,1.04,3.1V9.923a4.4,4.4,0,0,1-1.04,3.1A4.259,4.259,0,0,1,9.549,14.23H3.557A4.259,4.259,0,0,1,.29,13.021a4.4,4.4,0,0,1-1.04-3.1V3.557A4.4,4.4,0,0,1,.29.459,4.259,4.259,0,0,1,3.557-.75ZM9.549,13.106a3.2,3.2,0,0,0,2.444-.85,3.327,3.327,0,0,0,.739-2.333V3.557a3.327,3.327,0,0,0-.739-2.333A3.2,3.2,0,0,0,9.549.373H3.557a3.2,3.2,0,0,0-2.444.85A3.327,3.327,0,0,0,.373,3.557V9.923a3.327,3.327,0,0,0,.739,2.333,3.2,3.2,0,0,0,2.444.85Z"
-                          transform="translate(2.435 2.81)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-5"
-                          data-name="Vector"
-                          d="M0,0H17.976V17.976H0Z"
-                          fill="none"
-                          opacity="0"
-                        ></path>
-                        <path
-                          id="Vector-6"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(11.512 10.012)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-7"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(11.512 12.259)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-8"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(8.741 10.012)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-9"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(8.741 12.259)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-10"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(5.969 10.012)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-11"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(5.969 12.259)"
-                          fill="currentColor"
-                        ></path>
-                      </g>
-                    </svg>
-                    <span>أبريل 17</span>
-                  </div>
-                  <h2 className="h-100 overflow-hidden mx-0 mt-0 mb-4 py-2 px-3 text-lg text-left rtl:text-right leading-8 text-black dark:text-white font-ge-dinar-medium">
-                    <a href="#/18" className="block">
-                      الموافقة ريزدنس الراعي الماسي لمعرض مسكن العقاري 2023 في
-                      الرياض
-                    </a>
-                  </h2>
-                </div>
-              </li>
-            </SwiperSlide>
-            <SwiperSlide>
-              {" "}
-              <li
-                className="carousel__slide carousel_slide--clone"
-                aria-hidden="true"
-              >
-                <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
-                  <a href="#/18" className="block">
-                    <img
-                       src={project4}
-                      alt="blog"
-                      data-v-2d36321d=""
-                      className="w-full align-middle aspect-[5/3] object-cover"
-                    />
-                  </a>
-                  <div className="flex px-2 pt-3 text-primary-500 space-x-2 space-x-reverse">
-                    <svg
-                      className="w-6 inline-block"
-                      id="vuesax_linear_calendar"
-                      data-name="vuesax/linear/calendar"
-                      xmlns="http://www.w3.org/2000/svg"
-                      viewBox="0 0 17.976 17.976"
-                    >
-                      <g id="calendar">
-                        <path
-                          id="Vector"
-                          d="M-.188,2.62A.562.562,0,0,1-.75,2.059V-.188A.562.562,0,0,1-.188-.75a.562.562,0,0,1,.562.562V2.059A.562.562,0,0,1-.188,2.62Z"
-                          transform="translate(6.18 1.686)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-2"
-                          data-name="Vector"
-                          d="M-.188,2.62A.562.562,0,0,1-.75,2.059V-.188A.562.562,0,0,1-.188-.75a.562.562,0,0,1,.562.562V2.059A.562.562,0,0,1-.188,2.62Z"
-                          transform="translate(12.172 1.686)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-3"
-                          data-name="Vector"
-                          d="M12.545.373H-.188A.562.562,0,0,1-.75-.188.562.562,0,0,1-.188-.75H12.545a.562.562,0,0,1,.562.562A.562.562,0,0,1,12.545.373Z"
-                          transform="translate(2.81 6.997)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-4"
-                          data-name="Vector"
-                          d="M3.557-.75H9.549A4.259,4.259,0,0,1,12.816.459a4.4,4.4,0,0,1,1.04,3.1V9.923a4.4,4.4,0,0,1-1.04,3.1A4.259,4.259,0,0,1,9.549,14.23H3.557A4.259,4.259,0,0,1,.29,13.021a4.4,4.4,0,0,1-1.04-3.1V3.557A4.4,4.4,0,0,1,.29.459,4.259,4.259,0,0,1,3.557-.75ZM9.549,13.106a3.2,3.2,0,0,0,2.444-.85,3.327,3.327,0,0,0,.739-2.333V3.557a3.327,3.327,0,0,0-.739-2.333A3.2,3.2,0,0,0,9.549.373H3.557a3.2,3.2,0,0,0-2.444.85A3.327,3.327,0,0,0,.373,3.557V9.923a3.327,3.327,0,0,0,.739,2.333,3.2,3.2,0,0,0,2.444.85Z"
-                          transform="translate(2.435 2.81)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-5"
-                          data-name="Vector"
-                          d="M0,0H17.976V17.976H0Z"
-                          fill="none"
-                          opacity="0"
-                        ></path>
-                        <path
-                          id="Vector-6"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(11.512 10.012)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-7"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(11.512 12.259)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-8"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(8.741 10.012)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-9"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(8.741 12.259)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-10"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(5.969 10.012)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-11"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(5.969 12.259)"
-                          fill="currentColor"
-                        ></path>
-                      </g>
-                    </svg>
-                    <span>أبريل 17</span>
-                  </div>
-                  <h2 className="h-100 overflow-hidden mx-0 mt-0 mb-4 py-2 px-3 text-lg text-left rtl:text-right leading-8 text-black dark:text-white font-ge-dinar-medium">
-                    <a href="#/18" className="block">
-                      الموافقة ريزدنس الراعي الماسي لمعرض مسكن العقاري 2023 في
-                      الرياض
-                    </a>
-                  </h2>
-                </div>
-              </li>
-            </SwiperSlide>
-            <SwiperSlide>
-              {" "}
-              <li
-                className="carousel__slide carousel_slide--clone"
-                aria-hidden="true"
-              >
-                <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
-                  <a href="#/18" className="block">
-                    <img
-                      src={project5}
-                      alt="blog"
-                      data-v-2d36321d=""
-                      className="w-full align-middle aspect-[5/3] object-cover"
-                    />
-                  </a>
-                  <div className="flex px-2 pt-3 text-primary-500 space-x-2 space-x-reverse">
-                    <svg
-                      className="w-6 inline-block"
-                      id="vuesax_linear_calendar"
-                      data-name="vuesax/linear/calendar"
-                      xmlns="http://www.w3.org/2000/svg"
-                      viewBox="0 0 17.976 17.976"
-                    >
-                      <g id="calendar">
-                        <path
-                          id="Vector"
-                          d="M-.188,2.62A.562.562,0,0,1-.75,2.059V-.188A.562.562,0,0,1-.188-.75a.562.562,0,0,1,.562.562V2.059A.562.562,0,0,1-.188,2.62Z"
-                          transform="translate(6.18 1.686)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-2"
-                          data-name="Vector"
-                          d="M-.188,2.62A.562.562,0,0,1-.75,2.059V-.188A.562.562,0,0,1-.188-.75a.562.562,0,0,1,.562.562V2.059A.562.562,0,0,1-.188,2.62Z"
-                          transform="translate(12.172 1.686)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-3"
-                          data-name="Vector"
-                          d="M12.545.373H-.188A.562.562,0,0,1-.75-.188.562.562,0,0,1-.188-.75H12.545a.562.562,0,0,1,.562.562A.562.562,0,0,1,12.545.373Z"
-                          transform="translate(2.81 6.997)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-4"
-                          data-name="Vector"
-                          d="M3.557-.75H9.549A4.259,4.259,0,0,1,12.816.459a4.4,4.4,0,0,1,1.04,3.1V9.923a4.4,4.4,0,0,1-1.04,3.1A4.259,4.259,0,0,1,9.549,14.23H3.557A4.259,4.259,0,0,1,.29,13.021a4.4,4.4,0,0,1-1.04-3.1V3.557A4.4,4.4,0,0,1,.29.459,4.259,4.259,0,0,1,3.557-.75ZM9.549,13.106a3.2,3.2,0,0,0,2.444-.85,3.327,3.327,0,0,0,.739-2.333V3.557a3.327,3.327,0,0,0-.739-2.333A3.2,3.2,0,0,0,9.549.373H3.557a3.2,3.2,0,0,0-2.444.85A3.327,3.327,0,0,0,.373,3.557V9.923a3.327,3.327,0,0,0,.739,2.333,3.2,3.2,0,0,0,2.444.85Z"
-                          transform="translate(2.435 2.81)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-5"
-                          data-name="Vector"
-                          d="M0,0H17.976V17.976H0Z"
-                          fill="none"
-                          opacity="0"
-                        ></path>
-                        <path
-                          id="Vector-6"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(11.512 10.012)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-7"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(11.512 12.259)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-8"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(8.741 10.012)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-9"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(8.741 12.259)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-10"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(5.969 10.012)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-11"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(5.969 12.259)"
-                          fill="currentColor"
-                        ></path>
-                      </g>
-                    </svg>
-                    <span>أبريل 17</span>
-                  </div>
-                  <h2 className="h-100 overflow-hidden mx-0 mt-0 mb-4 py-2 px-3 text-lg text-left rtl:text-right leading-8 text-black dark:text-white font-ge-dinar-medium">
-                    <a href="#/18" className="block">
-                      الموافقة ريزدنس الراعي الماسي لمعرض مسكن العقاري 2023 في
-                      الرياض
-                    </a>
-                  </h2>
-                </div>
-              </li>
-            </SwiperSlide>
-            <SwiperSlide>
-              {" "}
-              <li
-                className="carousel__slide carousel_slide--clone"
-                aria-hidden="true"
-              >
-                <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
-                  <a href="#/18" className="block">
-                    <img
-                      src={project6}
-                      alt="blog"
-                      data-v-2d36321d=""
-                      className="w-full align-middle aspect-[5/3] object-cover"
-                    />
-                  </a>
-                  <div className="flex px-2 pt-3 text-primary-500 space-x-2 space-x-reverse">
-                    <svg
-                      className="w-6 inline-block"
-                      id="vuesax_linear_calendar"
-                      data-name="vuesax/linear/calendar"
-                      xmlns="http://www.w3.org/2000/svg"
-                      viewBox="0 0 17.976 17.976"
-                    >
-                      <g id="calendar">
-                        <path
-                          id="Vector"
-                          d="M-.188,2.62A.562.562,0,0,1-.75,2.059V-.188A.562.562,0,0,1-.188-.75a.562.562,0,0,1,.562.562V2.059A.562.562,0,0,1-.188,2.62Z"
-                          transform="translate(6.18 1.686)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-2"
-                          data-name="Vector"
-                          d="M-.188,2.62A.562.562,0,0,1-.75,2.059V-.188A.562.562,0,0,1-.188-.75a.562.562,0,0,1,.562.562V2.059A.562.562,0,0,1-.188,2.62Z"
-                          transform="translate(12.172 1.686)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-3"
-                          data-name="Vector"
-                          d="M12.545.373H-.188A.562.562,0,0,1-.75-.188.562.562,0,0,1-.188-.75H12.545a.562.562,0,0,1,.562.562A.562.562,0,0,1,12.545.373Z"
-                          transform="translate(2.81 6.997)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-4"
-                          data-name="Vector"
-                          d="M3.557-.75H9.549A4.259,4.259,0,0,1,12.816.459a4.4,4.4,0,0,1,1.04,3.1V9.923a4.4,4.4,0,0,1-1.04,3.1A4.259,4.259,0,0,1,9.549,14.23H3.557A4.259,4.259,0,0,1,.29,13.021a4.4,4.4,0,0,1-1.04-3.1V3.557A4.4,4.4,0,0,1,.29.459,4.259,4.259,0,0,1,3.557-.75ZM9.549,13.106a3.2,3.2,0,0,0,2.444-.85,3.327,3.327,0,0,0,.739-2.333V3.557a3.327,3.327,0,0,0-.739-2.333A3.2,3.2,0,0,0,9.549.373H3.557a3.2,3.2,0,0,0-2.444.85A3.327,3.327,0,0,0,.373,3.557V9.923a3.327,3.327,0,0,0,.739,2.333,3.2,3.2,0,0,0,2.444.85Z"
-                          transform="translate(2.435 2.81)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-5"
-                          data-name="Vector"
-                          d="M0,0H17.976V17.976H0Z"
-                          fill="none"
-                          opacity="0"
-                        ></path>
-                        <path
-                          id="Vector-6"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(11.512 10.012)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-7"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(11.512 12.259)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-8"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(8.741 10.012)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-9"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(8.741 12.259)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-10"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(5.969 10.012)"
-                          fill="currentColor"
-                        ></path>
-                        <path
-                          id="Vector-11"
-                          data-name="Vector"
-                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
-                          transform="translate(5.969 12.259)"
-                          fill="currentColor"
-                        ></path>
-                      </g>
-                    </svg>
-                    <span>أبريل 17</span>
-                  </div>
-                  <h2 className="h-100 overflow-hidden mx-0 mt-0 mb-4 py-2 px-3 text-lg text-left rtl:text-right leading-8 text-black dark:text-white font-ge-dinar-medium">
-                    <a href="#/18" className="block">
-                      الموافقة ريزدنس الراعي الماسي لمعرض مسكن العقاري 2023 في
-                      الرياض
-                    </a>
-                  </h2>
-                </div>
-              </li>
-            </SwiperSlide>
-            <SwiperSlide>
-              {" "}
-              <li
-                className="carousel__slide carousel_slide--clone"
-                aria-hidden="true"
-              >
-                <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
-                  <a href="#/18" className="block">
-                    <img
                        src={project1}
                       alt="blog"
                       data-v-2d36321d=""
@@ -910,7 +345,7 @@ const Blogs = () => {
                 <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
                   <a href="#/18" className="block">
                     <img
-                       src={project2}
+                      src="https://minio.almajdiah.sa:9000/etmaam-public/posts/images/FuKwvHD49guE7U54ORKCqXSYCBcyXbttDkoAUE1m.jpg"
                       alt="blog"
                       data-v-2d36321d=""
                       className="w-full align-middle aspect-[5/3] object-cover"
@@ -1023,7 +458,572 @@ const Blogs = () => {
                 <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
                   <a href="#/18" className="block">
                     <img
-                       src={project3}
+                      src="https://minio.almajdiah.sa:9000/etmaam-public/posts/images/FuKwvHD49guE7U54ORKCqXSYCBcyXbttDkoAUE1m.jpg"
+                      alt="blog"
+                      data-v-2d36321d=""
+                      className="w-full align-middle aspect-[5/3] object-cover"
+                    />
+                  </a>
+                  <div className="flex px-2 pt-3 text-primary-500 space-x-2 space-x-reverse">
+                    <svg
+                      className="w-6 inline-block"
+                      id="vuesax_linear_calendar"
+                      data-name="vuesax/linear/calendar"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 17.976 17.976"
+                    >
+                      <g id="calendar">
+                        <path
+                          id="Vector"
+                          d="M-.188,2.62A.562.562,0,0,1-.75,2.059V-.188A.562.562,0,0,1-.188-.75a.562.562,0,0,1,.562.562V2.059A.562.562,0,0,1-.188,2.62Z"
+                          transform="translate(6.18 1.686)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-2"
+                          data-name="Vector"
+                          d="M-.188,2.62A.562.562,0,0,1-.75,2.059V-.188A.562.562,0,0,1-.188-.75a.562.562,0,0,1,.562.562V2.059A.562.562,0,0,1-.188,2.62Z"
+                          transform="translate(12.172 1.686)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-3"
+                          data-name="Vector"
+                          d="M12.545.373H-.188A.562.562,0,0,1-.75-.188.562.562,0,0,1-.188-.75H12.545a.562.562,0,0,1,.562.562A.562.562,0,0,1,12.545.373Z"
+                          transform="translate(2.81 6.997)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-4"
+                          data-name="Vector"
+                          d="M3.557-.75H9.549A4.259,4.259,0,0,1,12.816.459a4.4,4.4,0,0,1,1.04,3.1V9.923a4.4,4.4,0,0,1-1.04,3.1A4.259,4.259,0,0,1,9.549,14.23H3.557A4.259,4.259,0,0,1,.29,13.021a4.4,4.4,0,0,1-1.04-3.1V3.557A4.4,4.4,0,0,1,.29.459,4.259,4.259,0,0,1,3.557-.75ZM9.549,13.106a3.2,3.2,0,0,0,2.444-.85,3.327,3.327,0,0,0,.739-2.333V3.557a3.327,3.327,0,0,0-.739-2.333A3.2,3.2,0,0,0,9.549.373H3.557a3.2,3.2,0,0,0-2.444.85A3.327,3.327,0,0,0,.373,3.557V9.923a3.327,3.327,0,0,0,.739,2.333,3.2,3.2,0,0,0,2.444.85Z"
+                          transform="translate(2.435 2.81)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-5"
+                          data-name="Vector"
+                          d="M0,0H17.976V17.976H0Z"
+                          fill="none"
+                          opacity="0"
+                        ></path>
+                        <path
+                          id="Vector-6"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(11.512 10.012)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-7"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(11.512 12.259)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-8"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(8.741 10.012)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-9"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(8.741 12.259)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-10"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(5.969 10.012)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-11"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(5.969 12.259)"
+                          fill="currentColor"
+                        ></path>
+                      </g>
+                    </svg>
+                    <span>أبريل 17</span>
+                  </div>
+                  <h2 className="h-100 overflow-hidden mx-0 mt-0 mb-4 py-2 px-3 text-lg text-left rtl:text-right leading-8 text-black dark:text-white font-ge-dinar-medium">
+                    <a href="#/18" className="block">
+                      الموافقة ريزدنس الراعي الماسي لمعرض مسكن العقاري 2023 في
+                      الرياض
+                    </a>
+                  </h2>
+                </div>
+              </li>
+            </SwiperSlide>
+            <SwiperSlide>
+              {" "}
+              <li
+                className="carousel__slide carousel_slide--clone"
+                aria-hidden="true"
+              >
+                <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
+                  <a href="#/18" className="block">
+                    <img
+                      src="https://minio.almajdiah.sa:9000/etmaam-public/posts/images/FuKwvHD49guE7U54ORKCqXSYCBcyXbttDkoAUE1m.jpg"
+                      alt="blog"
+                      data-v-2d36321d=""
+                      className="w-full align-middle aspect-[5/3] object-cover"
+                    />
+                  </a>
+                  <div className="flex px-2 pt-3 text-primary-500 space-x-2 space-x-reverse">
+                    <svg
+                      className="w-6 inline-block"
+                      id="vuesax_linear_calendar"
+                      data-name="vuesax/linear/calendar"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 17.976 17.976"
+                    >
+                      <g id="calendar">
+                        <path
+                          id="Vector"
+                          d="M-.188,2.62A.562.562,0,0,1-.75,2.059V-.188A.562.562,0,0,1-.188-.75a.562.562,0,0,1,.562.562V2.059A.562.562,0,0,1-.188,2.62Z"
+                          transform="translate(6.18 1.686)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-2"
+                          data-name="Vector"
+                          d="M-.188,2.62A.562.562,0,0,1-.75,2.059V-.188A.562.562,0,0,1-.188-.75a.562.562,0,0,1,.562.562V2.059A.562.562,0,0,1-.188,2.62Z"
+                          transform="translate(12.172 1.686)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-3"
+                          data-name="Vector"
+                          d="M12.545.373H-.188A.562.562,0,0,1-.75-.188.562.562,0,0,1-.188-.75H12.545a.562.562,0,0,1,.562.562A.562.562,0,0,1,12.545.373Z"
+                          transform="translate(2.81 6.997)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-4"
+                          data-name="Vector"
+                          d="M3.557-.75H9.549A4.259,4.259,0,0,1,12.816.459a4.4,4.4,0,0,1,1.04,3.1V9.923a4.4,4.4,0,0,1-1.04,3.1A4.259,4.259,0,0,1,9.549,14.23H3.557A4.259,4.259,0,0,1,.29,13.021a4.4,4.4,0,0,1-1.04-3.1V3.557A4.4,4.4,0,0,1,.29.459,4.259,4.259,0,0,1,3.557-.75ZM9.549,13.106a3.2,3.2,0,0,0,2.444-.85,3.327,3.327,0,0,0,.739-2.333V3.557a3.327,3.327,0,0,0-.739-2.333A3.2,3.2,0,0,0,9.549.373H3.557a3.2,3.2,0,0,0-2.444.85A3.327,3.327,0,0,0,.373,3.557V9.923a3.327,3.327,0,0,0,.739,2.333,3.2,3.2,0,0,0,2.444.85Z"
+                          transform="translate(2.435 2.81)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-5"
+                          data-name="Vector"
+                          d="M0,0H17.976V17.976H0Z"
+                          fill="none"
+                          opacity="0"
+                        ></path>
+                        <path
+                          id="Vector-6"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(11.512 10.012)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-7"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(11.512 12.259)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-8"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(8.741 10.012)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-9"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(8.741 12.259)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-10"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(5.969 10.012)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-11"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(5.969 12.259)"
+                          fill="currentColor"
+                        ></path>
+                      </g>
+                    </svg>
+                    <span>أبريل 17</span>
+                  </div>
+                  <h2 className="h-100 overflow-hidden mx-0 mt-0 mb-4 py-2 px-3 text-lg text-left rtl:text-right leading-8 text-black dark:text-white font-ge-dinar-medium">
+                    <a href="#/18" className="block">
+                      الموافقة ريزدنس الراعي الماسي لمعرض مسكن العقاري 2023 في
+                      الرياض
+                    </a>
+                  </h2>
+                </div>
+              </li>
+            </SwiperSlide>
+            <SwiperSlide>
+              {" "}
+              <li
+                className="carousel__slide carousel_slide--clone"
+                aria-hidden="true"
+              >
+                <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
+                  <a href="#/18" className="block">
+                    <img
+                      src="https://minio.almajdiah.sa:9000/etmaam-public/posts/images/FuKwvHD49guE7U54ORKCqXSYCBcyXbttDkoAUE1m.jpg"
+                      alt="blog"
+                      data-v-2d36321d=""
+                      className="w-full align-middle aspect-[5/3] object-cover"
+                    />
+                  </a>
+                  <div className="flex px-2 pt-3 text-primary-500 space-x-2 space-x-reverse">
+                    <svg
+                      className="w-6 inline-block"
+                      id="vuesax_linear_calendar"
+                      data-name="vuesax/linear/calendar"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 17.976 17.976"
+                    >
+                      <g id="calendar">
+                        <path
+                          id="Vector"
+                          d="M-.188,2.62A.562.562,0,0,1-.75,2.059V-.188A.562.562,0,0,1-.188-.75a.562.562,0,0,1,.562.562V2.059A.562.562,0,0,1-.188,2.62Z"
+                          transform="translate(6.18 1.686)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-2"
+                          data-name="Vector"
+                          d="M-.188,2.62A.562.562,0,0,1-.75,2.059V-.188A.562.562,0,0,1-.188-.75a.562.562,0,0,1,.562.562V2.059A.562.562,0,0,1-.188,2.62Z"
+                          transform="translate(12.172 1.686)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-3"
+                          data-name="Vector"
+                          d="M12.545.373H-.188A.562.562,0,0,1-.75-.188.562.562,0,0,1-.188-.75H12.545a.562.562,0,0,1,.562.562A.562.562,0,0,1,12.545.373Z"
+                          transform="translate(2.81 6.997)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-4"
+                          data-name="Vector"
+                          d="M3.557-.75H9.549A4.259,4.259,0,0,1,12.816.459a4.4,4.4,0,0,1,1.04,3.1V9.923a4.4,4.4,0,0,1-1.04,3.1A4.259,4.259,0,0,1,9.549,14.23H3.557A4.259,4.259,0,0,1,.29,13.021a4.4,4.4,0,0,1-1.04-3.1V3.557A4.4,4.4,0,0,1,.29.459,4.259,4.259,0,0,1,3.557-.75ZM9.549,13.106a3.2,3.2,0,0,0,2.444-.85,3.327,3.327,0,0,0,.739-2.333V3.557a3.327,3.327,0,0,0-.739-2.333A3.2,3.2,0,0,0,9.549.373H3.557a3.2,3.2,0,0,0-2.444.85A3.327,3.327,0,0,0,.373,3.557V9.923a3.327,3.327,0,0,0,.739,2.333,3.2,3.2,0,0,0,2.444.85Z"
+                          transform="translate(2.435 2.81)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-5"
+                          data-name="Vector"
+                          d="M0,0H17.976V17.976H0Z"
+                          fill="none"
+                          opacity="0"
+                        ></path>
+                        <path
+                          id="Vector-6"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(11.512 10.012)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-7"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(11.512 12.259)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-8"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(8.741 10.012)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-9"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(8.741 12.259)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-10"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(5.969 10.012)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-11"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(5.969 12.259)"
+                          fill="currentColor"
+                        ></path>
+                      </g>
+                    </svg>
+                    <span>أبريل 17</span>
+                  </div>
+                  <h2 className="h-100 overflow-hidden mx-0 mt-0 mb-4 py-2 px-3 text-lg text-left rtl:text-right leading-8 text-black dark:text-white font-ge-dinar-medium">
+                    <a href="#/18" className="block">
+                      الموافقة ريزدنس الراعي الماسي لمعرض مسكن العقاري 2023 في
+                      الرياض
+                    </a>
+                  </h2>
+                </div>
+              </li>
+            </SwiperSlide>
+            <SwiperSlide>
+              {" "}
+              <li
+                className="carousel__slide carousel_slide--clone"
+                aria-hidden="true"
+              >
+                <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
+                  <a href="#/18" className="block">
+                    <img
+                      src="https://minio.almajdiah.sa:9000/etmaam-public/posts/images/FuKwvHD49guE7U54ORKCqXSYCBcyXbttDkoAUE1m.jpg"
+                      alt="blog"
+                      data-v-2d36321d=""
+                      className="w-full align-middle aspect-[5/3] object-cover"
+                    />
+                  </a>
+                  <div className="flex px-2 pt-3 text-primary-500 space-x-2 space-x-reverse">
+                    <svg
+                      className="w-6 inline-block"
+                      id="vuesax_linear_calendar"
+                      data-name="vuesax/linear/calendar"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 17.976 17.976"
+                    >
+                      <g id="calendar">
+                        <path
+                          id="Vector"
+                          d="M-.188,2.62A.562.562,0,0,1-.75,2.059V-.188A.562.562,0,0,1-.188-.75a.562.562,0,0,1,.562.562V2.059A.562.562,0,0,1-.188,2.62Z"
+                          transform="translate(6.18 1.686)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-2"
+                          data-name="Vector"
+                          d="M-.188,2.62A.562.562,0,0,1-.75,2.059V-.188A.562.562,0,0,1-.188-.75a.562.562,0,0,1,.562.562V2.059A.562.562,0,0,1-.188,2.62Z"
+                          transform="translate(12.172 1.686)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-3"
+                          data-name="Vector"
+                          d="M12.545.373H-.188A.562.562,0,0,1-.75-.188.562.562,0,0,1-.188-.75H12.545a.562.562,0,0,1,.562.562A.562.562,0,0,1,12.545.373Z"
+                          transform="translate(2.81 6.997)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-4"
+                          data-name="Vector"
+                          d="M3.557-.75H9.549A4.259,4.259,0,0,1,12.816.459a4.4,4.4,0,0,1,1.04,3.1V9.923a4.4,4.4,0,0,1-1.04,3.1A4.259,4.259,0,0,1,9.549,14.23H3.557A4.259,4.259,0,0,1,.29,13.021a4.4,4.4,0,0,1-1.04-3.1V3.557A4.4,4.4,0,0,1,.29.459,4.259,4.259,0,0,1,3.557-.75ZM9.549,13.106a3.2,3.2,0,0,0,2.444-.85,3.327,3.327,0,0,0,.739-2.333V3.557a3.327,3.327,0,0,0-.739-2.333A3.2,3.2,0,0,0,9.549.373H3.557a3.2,3.2,0,0,0-2.444.85A3.327,3.327,0,0,0,.373,3.557V9.923a3.327,3.327,0,0,0,.739,2.333,3.2,3.2,0,0,0,2.444.85Z"
+                          transform="translate(2.435 2.81)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-5"
+                          data-name="Vector"
+                          d="M0,0H17.976V17.976H0Z"
+                          fill="none"
+                          opacity="0"
+                        ></path>
+                        <path
+                          id="Vector-6"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(11.512 10.012)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-7"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(11.512 12.259)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-8"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(8.741 10.012)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-9"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(8.741 12.259)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-10"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(5.969 10.012)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-11"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(5.969 12.259)"
+                          fill="currentColor"
+                        ></path>
+                      </g>
+                    </svg>
+                    <span>أبريل 17</span>
+                  </div>
+                  <h2 className="h-100 overflow-hidden mx-0 mt-0 mb-4 py-2 px-3 text-lg text-left rtl:text-right leading-8 text-black dark:text-white font-ge-dinar-medium">
+                    <a href="#/18" className="block">
+                      الموافقة ريزدنس الراعي الماسي لمعرض مسكن العقاري 2023 في
+                      الرياض
+                    </a>
+                  </h2>
+                </div>
+              </li>
+            </SwiperSlide>
+            <SwiperSlide>
+              {" "}
+              <li
+                className="carousel__slide carousel_slide--clone"
+                aria-hidden="true"
+              >
+                <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
+                  <a href="#/18" className="block">
+                    <img
+                      src="https://minio.almajdiah.sa:9000/etmaam-public/posts/images/FuKwvHD49guE7U54ORKCqXSYCBcyXbttDkoAUE1m.jpg"
+                      alt="blog"
+                      data-v-2d36321d=""
+                      className="w-full align-middle aspect-[5/3] object-cover"
+                    />
+                  </a>
+                  <div className="flex px-2 pt-3 text-primary-500 space-x-2 space-x-reverse">
+                    <svg
+                      className="w-6 inline-block"
+                      id="vuesax_linear_calendar"
+                      data-name="vuesax/linear/calendar"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 17.976 17.976"
+                    >
+                      <g id="calendar">
+                        <path
+                          id="Vector"
+                          d="M-.188,2.62A.562.562,0,0,1-.75,2.059V-.188A.562.562,0,0,1-.188-.75a.562.562,0,0,1,.562.562V2.059A.562.562,0,0,1-.188,2.62Z"
+                          transform="translate(6.18 1.686)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-2"
+                          data-name="Vector"
+                          d="M-.188,2.62A.562.562,0,0,1-.75,2.059V-.188A.562.562,0,0,1-.188-.75a.562.562,0,0,1,.562.562V2.059A.562.562,0,0,1-.188,2.62Z"
+                          transform="translate(12.172 1.686)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-3"
+                          data-name="Vector"
+                          d="M12.545.373H-.188A.562.562,0,0,1-.75-.188.562.562,0,0,1-.188-.75H12.545a.562.562,0,0,1,.562.562A.562.562,0,0,1,12.545.373Z"
+                          transform="translate(2.81 6.997)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-4"
+                          data-name="Vector"
+                          d="M3.557-.75H9.549A4.259,4.259,0,0,1,12.816.459a4.4,4.4,0,0,1,1.04,3.1V9.923a4.4,4.4,0,0,1-1.04,3.1A4.259,4.259,0,0,1,9.549,14.23H3.557A4.259,4.259,0,0,1,.29,13.021a4.4,4.4,0,0,1-1.04-3.1V3.557A4.4,4.4,0,0,1,.29.459,4.259,4.259,0,0,1,3.557-.75ZM9.549,13.106a3.2,3.2,0,0,0,2.444-.85,3.327,3.327,0,0,0,.739-2.333V3.557a3.327,3.327,0,0,0-.739-2.333A3.2,3.2,0,0,0,9.549.373H3.557a3.2,3.2,0,0,0-2.444.85A3.327,3.327,0,0,0,.373,3.557V9.923a3.327,3.327,0,0,0,.739,2.333,3.2,3.2,0,0,0,2.444.85Z"
+                          transform="translate(2.435 2.81)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-5"
+                          data-name="Vector"
+                          d="M0,0H17.976V17.976H0Z"
+                          fill="none"
+                          opacity="0"
+                        ></path>
+                        <path
+                          id="Vector-6"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(11.512 10.012)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-7"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(11.512 12.259)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-8"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(8.741 10.012)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-9"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(8.741 12.259)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-10"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(5.969 10.012)"
+                          fill="currentColor"
+                        ></path>
+                        <path
+                          id="Vector-11"
+                          data-name="Vector"
+                          d="M.25,1H.244a.749.749,0,1,1,0-1.5H.25A.749.749,0,0,1,.25,1Z"
+                          transform="translate(5.969 12.259)"
+                          fill="currentColor"
+                        ></path>
+                      </g>
+                    </svg>
+                    <span>أبريل 17</span>
+                  </div>
+                  <h2 className="h-100 overflow-hidden mx-0 mt-0 mb-4 py-2 px-3 text-lg text-left rtl:text-right leading-8 text-black dark:text-white font-ge-dinar-medium">
+                    <a href="#/18" className="block">
+                      الموافقة ريزدنس الراعي الماسي لمعرض مسكن العقاري 2023 في
+                      الرياض
+                    </a>
+                  </h2>
+                </div>
+              </li>
+            </SwiperSlide>
+            <SwiperSlide>
+              {" "}
+              <li
+                className="carousel__slide carousel_slide--clone"
+                aria-hidden="true"
+              >
+                <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
+                  <a href="#/18" className="block">
+                    <img
+                      src="https://minio.almajdiah.sa:9000/etmaam-public/posts/images/FuKwvHD49guE7U54ORKCqXSYCBcyXbttDkoAUE1m.jpg"
                       alt="blog"
                       data-v-2d36321d=""
                       className="w-full align-middle aspect-[5/3] object-cover"

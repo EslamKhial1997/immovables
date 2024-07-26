@@ -1023,7 +1023,7 @@ const Blogs = () => {
                 <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
                   <a href="#/18" className="block">
                     <img
-                       src={project3}
+                      src="https://minio.almajdiah.sa:9000/etmaam-public/posts/images/FuKwvHD49guE7U54ORKCqXSYCBcyXbttDkoAUE1m.jpg"
                       alt="blog"
                       data-v-2d36321d=""
                       className="w-full align-middle aspect-[5/3] object-cover"

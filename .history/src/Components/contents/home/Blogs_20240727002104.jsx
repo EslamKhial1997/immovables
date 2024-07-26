@@ -2,12 +2,12 @@ import React from "react";
 
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
-import project1 from "../../../assets/available/image10.jpg"
-import project2 from "../../../assets/available/image11.jpg"
-import project3 from "../../../assets/available/image3.jpg"
-import project4 from "../../../assets/available/image4.jpg"
-import project5 from "../../../assets/available/image5.jpg"
-import project6 from "../../../assets/available/image6.jpg"
+import project1 from "../../assets/available/image10.jpg"
+import project2 from "../../assets/available/image11.jpg"
+import project3 from "../../assets/available/image3.jpg"
+import project4 from "../../assets/available/image4.jpg"
+import project5 from "../../assets/available/image5.jpg"
+import project6 from "../../assets/available/image6.jpg"
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/pagination";
@@ -119,7 +119,7 @@ const Blogs = () => {
                 <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
                   <a href="#/18" className="block">
                     <img
-                      src={project1}
+                      src="https://minio.almajdiah.sa:9000/etmaam-public/posts/images/FuKwvHD49guE7U54ORKCqXSYCBcyXbttDkoAUE1m.jpg"
                       alt="blog"
                       data-v-2d36321d=""
                       className="w-full align-middle aspect-[5/3] object-cover"
@@ -232,7 +232,7 @@ const Blogs = () => {
                 <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
                   <a href="#/18" className="block">
                     <img
-                       src={project2}
+                      src="https://minio.almajdiah.sa:9000/etmaam-public/posts/images/FuKwvHD49guE7U54ORKCqXSYCBcyXbttDkoAUE1m.jpg"
                       alt="blog"
                       data-v-2d36321d=""
                       className="w-full align-middle aspect-[5/3] object-cover"
@@ -345,7 +345,7 @@ const Blogs = () => {
                 <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
                   <a href="#/18" className="block">
                     <img
-                       src={project3}
+                      src="https://minio.almajdiah.sa:9000/etmaam-public/posts/images/FuKwvHD49guE7U54ORKCqXSYCBcyXbttDkoAUE1m.jpg"
                       alt="blog"
                       data-v-2d36321d=""
                       className="w-full align-middle aspect-[5/3] object-cover"
@@ -458,7 +458,7 @@ const Blogs = () => {
                 <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
                   <a href="#/18" className="block">
                     <img
-                       src={project4}
+                      src="https://minio.almajdiah.sa:9000/etmaam-public/posts/images/FuKwvHD49guE7U54ORKCqXSYCBcyXbttDkoAUE1m.jpg"
                       alt="blog"
                       data-v-2d36321d=""
                       className="w-full align-middle aspect-[5/3] object-cover"
@@ -571,7 +571,7 @@ const Blogs = () => {
                 <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
                   <a href="#/18" className="block">
                     <img
-                      src={project5}
+                      src="https://minio.almajdiah.sa:9000/etmaam-public/posts/images/FuKwvHD49guE7U54ORKCqXSYCBcyXbttDkoAUE1m.jpg"
                       alt="blog"
                       data-v-2d36321d=""
                       className="w-full align-middle aspect-[5/3] object-cover"
@@ -684,7 +684,7 @@ const Blogs = () => {
                 <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
                   <a href="#/18" className="block">
                     <img
-                      src={project6}
+                      src="https://minio.almajdiah.sa:9000/etmaam-public/posts/images/FuKwvHD49guE7U54ORKCqXSYCBcyXbttDkoAUE1m.jpg"
                       alt="blog"
                       data-v-2d36321d=""
                       className="w-full align-middle aspect-[5/3] object-cover"
@@ -797,7 +797,7 @@ const Blogs = () => {
                 <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
                   <a href="#/18" className="block">
                     <img
-                       src={project1}
+                      src="https://minio.almajdiah.sa:9000/etmaam-public/posts/images/FuKwvHD49guE7U54ORKCqXSYCBcyXbttDkoAUE1m.jpg"
                       alt="blog"
                       data-v-2d36321d=""
                       className="w-full align-middle aspect-[5/3] object-cover"
@@ -910,7 +910,7 @@ const Blogs = () => {
                 <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
                   <a href="#/18" className="block">
                     <img
-                       src={project2}
+                      src="https://minio.almajdiah.sa:9000/etmaam-public/posts/images/FuKwvHD49guE7U54ORKCqXSYCBcyXbttDkoAUE1m.jpg"
                       alt="blog"
                       data-v-2d36321d=""
                       className="w-full align-middle aspect-[5/3] object-cover"
@@ -1023,7 +1023,7 @@ const Blogs = () => {
                 <div className="bg-white shadow-lg dark:bg-black rounded-lg overflow-hidden mx-4 w-full h-full">
                   <a href="#/18" className="block">
                     <img
-                       src={project3}
+                      src="https://minio.almajdiah.sa:9000/etmaam-public/posts/images/FuKwvHD49guE7U54ORKCqXSYCBcyXbttDkoAUE1m.jpg"
                       alt="blog"
                       data-v-2d36321d=""
                       className="w-full align-middle aspect-[5/3] object-cover"
