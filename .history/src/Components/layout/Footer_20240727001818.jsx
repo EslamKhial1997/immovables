@@ -38,8 +38,16 @@ const Footer = () => {
                   </a>
                 </li>
               
-               
-              
+                <li className="mb-2">
+                  <a className="text-gray-200" aria-current="page" href="#">
+                    حقوق الملكية الفكرية
+                  </a>
+                </li>
+                <li className="mb-2">
+                  <a className="text-gray-200" aria-current="page" href="#">
+                    شروط الإستخدام
+                  </a>
+                </li>
               </ul>
             </div>
             <div>

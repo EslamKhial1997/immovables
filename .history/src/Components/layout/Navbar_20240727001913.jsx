@@ -26,7 +26,7 @@ const Navbar = () => {
               </NavLink>
               
 
-              <NavLink to={"/projects"}
+              <NavLink to={"/blogs"}
                 className="block py-3 px-3 lg:inline-flex items-center lg:py-1 text-lg font-ge-dinar-medium leading-5 text-white transition"
              
               >
