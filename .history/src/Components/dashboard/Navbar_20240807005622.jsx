@@ -1,6 +1,9 @@
+import { useDispatch } from "react-redux"
+import { setOpenSideBar } from "../store/SharedStore"
 
 
 const Navbar = () => {
+  const dispatch = useDispatch()
   return (
     <nav className="fixed top-0 z-50 w-full bg-white border-b border-gray-200 dark:bg-gray-800 dark:border-gray-700">
         <div className="px-3 py-3 lg:px-5 lg:pl-3">
@@ -85,8 +88,9 @@ const Navbar = () => {
                 </div>
               </div>
             </div>
-            <div className="flex items-center justify-start rtl:justify-end">
+            <div className="flex items-center justify-start rtl:justify-end bg-">
               <button
+             
                 data-drawer-target="logo-sidebar"
                 data-drawer-toggle="logo-sidebar"
                 aria-controls="logo-sidebar"
