@@ -66,9 +66,9 @@
 }
 
 @media screen and (max-width: 545px) {
-    span {
+    /* span {
         display: none;
-    }
+    } */
 
     .float-button {
         bottom: 15px;
