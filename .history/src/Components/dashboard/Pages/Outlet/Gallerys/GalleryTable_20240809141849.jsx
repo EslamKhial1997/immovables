@@ -159,7 +159,7 @@ const GalleryTable = () => {
                 لا{" "}
               </Button>
             </Table.Cell>
-            <Table.Cell>فيلا</Table.Cell>
+            <Table.Cell>شقه</Table.Cell>
             <Table.Cell>
               {" "}
               <Button className="bg-green-600 " size="xs">

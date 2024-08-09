@@ -114,8 +114,8 @@ const GalleryTable = () => {
             </Table.Cell>
             <Table.Cell>
               {" "}
-              <Button className="bg-red-600 " size="xs">
-                لا{" "}
+              <Button className="bg-green-600 " size="xs">
+                نعم{" "}
               </Button>
             </Table.Cell>
             <Table.Cell>
@@ -134,23 +134,23 @@ const GalleryTable = () => {
           </Table.Row>
           <Table.Row className="bg-white dark:border-warning-700 dark:bg-warning-800">
             <Table.Cell className="whitespace-nowrap font-medium text-warning-900 dark:text-white">
-              5697
+              1562
             </Table.Cell>
-            <Table.Cell>500</Table.Cell>
+            <Table.Cell>300</Table.Cell>
             <Table.Cell>3</Table.Cell>
             <Table.Cell>2</Table.Cell>
-            <Table.Cell>2500م</Table.Cell>
+            <Table.Cell>125م</Table.Cell>
             <Table.Cell>2</Table.Cell>
             <Table.Cell>2</Table.Cell>
             <Table.Cell className=" gap-2">
-              <Button className="bg-green-600 " size="xs">
+              <Button className="bg-red-600 " size="xs">
                نعم
               </Button>
             </Table.Cell>
             <Table.Cell>
               {" "}
-              <Button className="bg-red-600 " size="xs">
-                لا{" "}
+              <Button className="bg-green-600 " size="xs">
+                نعم{" "}
               </Button>
             </Table.Cell>
             <Table.Cell>
@@ -159,7 +159,7 @@ const GalleryTable = () => {
                 لا{" "}
               </Button>
             </Table.Cell>
-            <Table.Cell>فيلا</Table.Cell>
+            <Table.Cell>شقه</Table.Cell>
             <Table.Cell>
               {" "}
               <Button className="bg-green-600 " size="xs">
@@ -197,8 +197,8 @@ const GalleryTable = () => {
             <Table.Cell>شقه</Table.Cell>
             <Table.Cell>
               {" "}
-              <Button className="bg-red-600 " size="xs">
-                مباع{" "}
+              <Button className="bg-green-600 " size="xs">
+                متاح{" "}
               </Button>
             </Table.Cell>
           </Table.Row>

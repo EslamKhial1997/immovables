@@ -16,7 +16,7 @@ const CustomerTable = () => {
         <Table.Body className="divide-y text-center">
           <Table.Row className="bg-white dark:border-gray-700 dark:bg-gray-800">
             <Table.Cell className="whitespace-nowrap font-medium text-gray-900 dark:text-white">
-            اسلام
+              مجهول الهويه
             </Table.Cell>
             <Table.Cell>1658162</Table.Cell>
             <Table.Cell>297856485211</Table.Cell>
@@ -41,62 +41,12 @@ const CustomerTable = () => {
           </Table.Row>
           <Table.Row className="bg-white dark:border-gray-700 dark:bg-gray-800">
             <Table.Cell className="whitespace-nowrap font-medium text-gray-900 dark:text-white">
-             محمد
+              مجهول الهويه
             </Table.Cell>
             <Table.Cell>1658162</Table.Cell>
             <Table.Cell>297856485211</Table.Cell>
             <Table.Cell>0123456789</Table.Cell>
-            <Table.Cell>مشرف</Table.Cell>
-            <Table.Cell>
-              <div className="flex justify-center text-center bg-gray-200 p-2 rounded-lg">
-                <Dropdown label="المسوقيين" inline>
-                  <Dropdown.Item>محمد</Dropdown.Item>
-                  <Dropdown.Item>محمد</Dropdown.Item>
-                  <Dropdown.Item>محمد</Dropdown.Item>
-                  <Dropdown.Item>محمد</Dropdown.Item>
-                </Dropdown>
-              </div>
-            </Table.Cell>
-            <Table.Cell className="grid grid-cols-2  gap-2">
-              <Button className="bg-red-600 " size="xs">
-                حذف{" "}
-              </Button>
-              <Button size="xs">تعديل</Button>
-            </Table.Cell>
-          </Table.Row>
-          <Table.Row className="bg-white dark:border-gray-700 dark:bg-gray-800">
-            <Table.Cell className="whitespace-nowrap font-medium text-gray-900 dark:text-white">
-             خالد
-            </Table.Cell>
-            <Table.Cell>1658162</Table.Cell>
-            <Table.Cell>297856485211</Table.Cell>
-            <Table.Cell>0123456789</Table.Cell>
-            <Table.Cell>مسوق</Table.Cell>
-            <Table.Cell>
-              <div className="flex justify-center text-center bg-gray-200 p-2 rounded-lg">
-                <Dropdown label="المسوقيين" inline>
-                  <Dropdown.Item>محمد</Dropdown.Item>
-                  <Dropdown.Item>محمد</Dropdown.Item>
-                  <Dropdown.Item>محمد</Dropdown.Item>
-                  <Dropdown.Item>محمد</Dropdown.Item>
-                </Dropdown>
-              </div>
-            </Table.Cell>
-            <Table.Cell className="grid grid-cols-2  gap-2">
-              <Button className="bg-red-600 " size="xs">
-                حذف{" "}
-              </Button>
-              <Button size="xs">تعديل</Button>
-            </Table.Cell>
-          </Table.Row>
-          <Table.Row className="bg-white dark:border-gray-700 dark:bg-gray-800">
-            <Table.Cell className="whitespace-nowrap font-medium text-gray-900 dark:text-white">
-             محمد
-            </Table.Cell>
-            <Table.Cell>1658162</Table.Cell>
-            <Table.Cell>297856485211</Table.Cell>
-            <Table.Cell>0123456789</Table.Cell>
-            <Table.Cell>موظف</Table.Cell>
+            <Table.Cell>عميل</Table.Cell>
             <Table.Cell>
               <div className="flex justify-center text-center bg-gray-200 p-2 rounded-lg">
                 <Dropdown label="المسوقيين" inline>
@@ -116,12 +66,12 @@ const CustomerTable = () => {
           </Table.Row>
           <Table.Row className="bg-white dark:border-gray-700 dark:bg-gray-800">
             <Table.Cell className="whitespace-nowrap font-medium text-gray-900 dark:text-white">
-           اسامه
+              مجهول الهويه
             </Table.Cell>
             <Table.Cell>1658162</Table.Cell>
             <Table.Cell>297856485211</Table.Cell>
             <Table.Cell>0123456789</Table.Cell>
-            <Table.Cell>مدير</Table.Cell>
+            <Table.Cell>عميل</Table.Cell>
             <Table.Cell>
               <div className="flex justify-center text-center bg-gray-200 p-2 rounded-lg">
                 <Dropdown label="المسوقيين" inline>

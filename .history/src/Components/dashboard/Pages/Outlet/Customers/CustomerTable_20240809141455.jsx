@@ -116,7 +116,7 @@ const CustomerTable = () => {
           </Table.Row>
           <Table.Row className="bg-white dark:border-gray-700 dark:bg-gray-800">
             <Table.Cell className="whitespace-nowrap font-medium text-gray-900 dark:text-white">
-           اسامه
+              مجهول الهويه
             </Table.Cell>
             <Table.Cell>1658162</Table.Cell>
             <Table.Cell>297856485211</Table.Cell>
